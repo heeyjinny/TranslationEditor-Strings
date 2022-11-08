@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TranslationEditor-Strings</string>
+    <string name="new_string">New string</string>
+
+    <!--  다국어 처리 - Open editor  -->
+
+</resources>
